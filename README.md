@@ -5,7 +5,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/42/f5/b242f54c-88f0-b14a-7226-67e0d2ef7d15/icon.png/1200x630bb.png" width="200"><br>
-<a href="https://mac-share-apps.github.io/.github/clearview-x">
+<a href="https://ysids-apps-hub.github.io/.github/clearview-x">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
 <div align="center">
